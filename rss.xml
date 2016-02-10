@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Suzannah]]></title>
-        <description><![CDATA[Suzannah]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Suzannah Portfolio]]></title>
+        <description><![CDATA[Suzannah Portfolio]]></description>
+        <link>https://thegrid.ai/suzannah/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 10 Feb 2016 16:50:41 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 10 Feb 2016 16:55:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/suzannah/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Shoot with Pieter Van Dijen @ Scheveningen Pier]]></title>
+            <description><![CDATA[<article><h1>Shoot with Pieter Van Dijen @ Scheveningen Pier</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71ad2b155197d18d415b1933c0e12b434470d918.jpg"></article>]]></description>
+            <link>https://thegrid.ai/suzannah/shoot-with-pieter-van-dijen-scheveningen-pier/index.html</link>
+            <guid isPermaLink="false">bbf920ee-36a7-4a2d-ad5a-44c8f34c3e8f</guid>
+            <pubDate>Wed, 10 Feb 2016 16:52:15 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/382dd6aa-a9c8-4e5d-a78b-67719788a0f0.JPG">]]></description>
-            <link>undefined45459b60-5193-49c5-9b71-39a99a2e35fe/index.html</link>
+            <link>https://thegrid.ai/suzannah/45459b60-5193-49c5-9b71-39a99a2e35fe/index.html</link>
             <guid isPermaLink="false">45459b60-5193-49c5-9b71-39a99a2e35fe</guid>
             <pubDate>Wed, 10 Feb 2016 16:48:28 GMT</pubDate>
         </item>
