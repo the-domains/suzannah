@@ -4,18 +4,18 @@
         <description><![CDATA[Suzannah Portfolio]]></description>
         <link>https://thegrid.ai/suzannah/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Mar 2016 15:21:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2016 06:11:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/suzannah/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Portfolio and measurements]]></title>
-            <description><![CDATA[<article><h1>Portfolio and measurements</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b36e01b60fa66f6954b4861bbf8d7b2dc3ae0302.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Portfolio and measurements</h1><p>Height: 175 cm / 5'9"</p></article>]]></description>
             <link>https://thegrid.ai/suzannah/df57cf73-38f3-4e7d-bb64-e51208a8b979/index.html</link>
             <guid isPermaLink="false">df57cf73-38f3-4e7d-bb64-e51208a8b979</guid>
-            <pubDate>Thu, 17 Mar 2016 15:21:17 GMT</pubDate>
+            <pubDate>Wed, 20 Apr 2016 06:11:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Frank McKenna @ OT301]]></title>
-            <description><![CDATA[<article><h1>Frank McKenna @ OT301</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/591acc164dfc7ea9536fac4d46971b0c69d21bd7.jpg"></article>]]></description>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/30c695d2-7139-4206-9c53-bb7d83468cbe.jpg">]]></description>
             <link>https://thegrid.ai/suzannah/frank-mckenna-ot301/index.html</link>
             <guid isPermaLink="false">4ebffc97-2bbe-465e-8c47-ab5fb93053f6</guid>
             <pubDate>Wed, 16 Mar 2016 16:14:18 GMT</pubDate>
@@ -28,18 +28,18 @@
             <pubDate>Thu, 11 Feb 2016 09:40:55 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Shoot with Pieter Van Dijen @ Scheveningen Pier]]></title>
-            <description><![CDATA[<article><h1>Shoot with Pieter Van Dijen @ Scheveningen Pier</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7af83d0a2f52d9362a5bcece7c401c297cb299ce.jpg"></article>]]></description>
-            <link>https://thegrid.ai/suzannah/shoot-with-pieter-van-dijen-scheveningen-pier/index.html</link>
-            <guid isPermaLink="false">bbf920ee-36a7-4a2d-ad5a-44c8f34c3e8f</guid>
-            <pubDate>Wed, 10 Feb 2016 16:58:41 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Shoot with Quinn Dekkers @ Amsterdam City Center ]]></title>
             <description><![CDATA[<article><h1>Shoot with Quinn Dekkers @ Amsterdam City Center </h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0cfb0f1590865174da38bf8666e8d800480cdf48.jpg"></article>]]></description>
             <link>https://thegrid.ai/suzannah/45459b60-5193-49c5-9b71-39a99a2e35fe/index.html</link>
             <guid isPermaLink="false">45459b60-5193-49c5-9b71-39a99a2e35fe</guid>
             <pubDate>Wed, 10 Feb 2016 16:58:48 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shoot with Pieter Van Dijen @ Scheveningen Pier]]></title>
+            <description><![CDATA[<article><h1>Shoot with Pieter Van Dijen @ Scheveningen Pier</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7af83d0a2f52d9362a5bcece7c401c297cb299ce.jpg"></article>]]></description>
+            <link>https://thegrid.ai/suzannah/shoot-with-pieter-van-dijen-scheveningen-pier/index.html</link>
+            <guid isPermaLink="false">bbf920ee-36a7-4a2d-ad5a-44c8f34c3e8f</guid>
+            <pubDate>Wed, 10 Feb 2016 16:58:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
