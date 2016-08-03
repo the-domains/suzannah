@@ -1,7 +1,7 @@
 name: Suzannah
 favicon: null
 layout_spectrum: 0.09834
-typography_spectrum: 0.6205
+typography_spectrum: 0.9424772365018725
 title: Suzannah Portfolio
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#d8d8d8'
-    - '#000000'
-    - '#353535'
-    - '#6a6a6a'
-    - '#909090'
-  brandStrength: 0
-  lightness: 1
-  saturation: 0.5625
-  rhythmicContrast: 0
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.02403283747844398
+  lightness: 0.5669552236795425
+  saturation: 0.9403633214533329
+  rhythmicContrast: 0.727659119758755
 purpose: []
