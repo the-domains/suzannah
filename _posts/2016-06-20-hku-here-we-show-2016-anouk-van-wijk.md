@@ -4,15 +4,15 @@ hasPage: true
 inNav: false
 inLanguage: null
 keywords: []
-description: ''
-datePublished: '2016-06-20T19:12:18.505Z'
-dateModified: '2016-06-20T19:11:47.953Z'
+description: 'Designer: Anouk van Wijk'
+datePublished: '2016-08-04T15:41:25.340Z'
+dateModified: '2016-06-20T19:12:22.757Z'
 title: 'HKU: Here We Show 2016 (Anouk van Wijk)'
 author: []
+sourcePath: _posts/2016-06-20-hku-here-we-show-2016-anouk-van-wijk.md
 authors: []
 publisher: null
 starred: false
-sourcePath: _posts/2016-06-20-hku-here-we-show-2016-anouk-van-wijk.md
 url: hku-here-we-show-2016-anouk-van-wijk/index.html
 _type: Article
 
