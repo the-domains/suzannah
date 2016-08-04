@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-08-04T15:41:17.553Z'
+datePublished: '2016-08-04T20:57:29.994Z'
 sourcePath: _posts/2016-08-04-mudshirt-collection-2016.md
 isBasedOnUrl: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/36e80d53-1dd4-492c-9985-29f64849b942.jpg
 author: []
 via: {}
-dateModified: '2016-08-04T15:41:16.958Z'
+dateModified: '2016-08-04T20:57:29.216Z'
 title: 'Mudshirt: Collection 2016'
 publisher: {}
 description: 'Photography: Ivar de Jong'
