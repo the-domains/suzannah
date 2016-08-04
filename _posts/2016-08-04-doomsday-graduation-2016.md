@@ -1,19 +1,19 @@
 ---
-datePublished: '2016-08-04T20:50:22.896Z'
+datePublished: '2016-08-04T20:58:31.878Z'
+sourcePath: _posts/2016-08-04-doomsday-graduation-2016.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
 via: {}
-dateModified: '2016-08-04T20:38:07.313Z'
+dateModified: '2016-08-04T20:58:30.751Z'
 title: DOOMSDAY GRADUATION 2016
 publisher: {}
 description: 'Designer/stylist: Kim Kivits'
 inLanguage: null
 inNav: false
 starred: false
-sourcePath: _posts/2016-08-04-doomsday-graduation-2016.md
 url: doomsday-graduation-2016/index.html
 _type: Article
 
